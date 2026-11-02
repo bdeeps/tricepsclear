@@ -1,0 +1,125 @@
+{
+  "slug": "tricepsclear",
+  "box": 197,
+  "question": "How do you build your triceps?",
+  "url": "https://glassbox.how/e/tricepsclear/",
+  "app": "https://glassbox.how/tricepsclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From dands in the earth pits of Indian akharas and Jahn's parallel bars to MRI studies of which arm position grows the most muscle.\n\n1811: The first parallel bars\n1896: Dands in print\n1910: Gama wins in London\n1945: Progressive resistance\n1966: The length-tension curve\n2017: Sets and loads\n\nThe full story, with 27 moments, sources and charts: glassbox.how/e/tricepsclear/history (link in bio)\n\nThen play with how it works: glassbox.how/tricepsclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #triceps #strengthtraining #pushups #dand #dips #musclegrowth #history",
+      "youtube": {
+        "title": "The history of building the triceps in 45 seconds #shorts",
+        "description": "From dands in the earth pits of Indian akharas and Jahn's parallel bars to MRI studies of which arm position grows the most muscle.\n\n1811 · The first parallel bars (Friedrich Ludwig Jahn)\n1896 · Dands in print (S. Bharadwaj, Vyayama Dipika)\n1910 · Gama wins in London (Ghulam Mohammad Baksh, \"The Great Gama\")\n1945 · Progressive resistance (Thomas DeLorme)\n1966 · The length-tension curve (A. M. Gordon, Andrew Huxley and F. J. Julian)\n2017 · Sets and loads (Brad Schoenfeld, Dan Ogborn, James Krieger, Jozo Grgic)\n\n▶ Full history: https://glassbox.how/e/tricepsclear/history/\n▶ Play with it: https://glassbox.how/e/tricepsclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How do you build your triceps?\n\nThe triceps is the biggest muscle in your upper arm, and one of its three heads crosses your shoulder. Raise the arm overhead and watch that head stretch, work out how much of you your hands carry in a push-up, a dand and a dip, and see what the evidence says about growing it safely.\n\n→ The triceps has three heads that share one tendon on the point of your elbow.\n→ Only the long head crosses your shoulder, so raising the arm overhead stretches it.\n→ Trained overhead, beginners grew about 40% more triceps in 12 weeks in one study.\n→ In a push-up your toes are the pivot, and your hands carry about two-thirds of you.\n→ The dand of Indian akharas swoops low and arches up, loading the arms all the way.\n\nPlay with it yourself. It's free and open source: glassbox.how/tricepsclear (link in bio)\n\nBox No. 197 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #triceps #strengthtraining #pushups #dand #dips #musclegrowth #hypertrophy #lengthtension #akhara",
+    "carousel": "Swipe through: How do you build your triceps?\n\nThe triceps is the biggest muscle in your upper arm, and one of its three heads crosses your shoulder. Raise the arm overhead and watch that head stretch, work out how much of you your hands carry in a push-up, a dand and a dip, and see what the evidence says about growing it safely.\n\nSave this for later, then play with the interactive version at glassbox.how/tricepsclear (link in bio).\n\nBox No. 197 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #triceps #strengthtraining #pushups #dand #dips #musclegrowth",
+    "youtube": {
+      "title": "How do you build your triceps? #shorts",
+      "description": "The triceps is the biggest muscle in your upper arm, and one of its three heads crosses your shoulder. Raise the arm overhead and watch that head stretch, work out how much of you your hands carry in a push-up, a dand and a dip, and see what the evidence says about growing it safely.\n\n▶ Play with it: https://glassbox.how/e/tricepsclear/\n⌘ Source code (MIT): https://github.com/bdeeps/tricepsclear\n\nBox No. 197 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How do you build your triceps? (interactive explainer)",
+      "description": "The triceps is the biggest muscle in your upper arm, and one of its three heads crosses your shoulder. Raise the arm overhead and watch that head stretch, work out how much of you your hands carry in a push-up, a dand and a dip, and see what the evidence says about growing it safely.\n\n▶ Play with the interactive version: https://glassbox.how/e/tricepsclear/\n⌘ Source code (MIT): https://github.com/bdeeps/tricepsclear\n\nIn this video:\n• Three heads, one tendon. The triceps brachii fills the back of the upper arm.\n• Arm up, long head long. Only the long head crosses the shoulder, so raising the arm overhead stretches it.\n• Push-ups, dands and dips. In a push-up your toes are the pivot and your hands carry about two-thirds of your weight; force plates measured about 64%.\n• How it grows. Hard sets close to failure, about 10 or more a week, on 2 or more days, with loads anywhere from about 30% to 85% of your max.\n• Safely. See a doctor first with heart disease, high blood pressure, pregnancy or a recent injury.\n• From the akhara to the lab. Indian wrestlers trained with dands and baithaks in earth pits; Gama's huge daily counts are reports, not records.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How do you build your triceps?\n\nThe triceps is the biggest muscle in your upper arm, and one of its three heads crosses your shoulder.\n\nPlay with it: https://glassbox.how/e/tricepsclear/",
+    "linkedin": "How do you build your triceps?\n\nThe triceps is the biggest muscle in your upper arm, and one of its three heads crosses your shoulder. Raise the arm overhead and watch that head stretch, work out how much of you your hands carry in a push-up, a dand and a dip, and see what the evidence says about growing it safely.\n\n1. Three heads, one tendon\n2. Arm up, long head long\n3. Push-ups, dands and dips\n4. How it grows\n5. Safely\n6. From the akhara to the lab\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 197 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/tricepsclear/\nCode: https://github.com/bdeeps/tricepsclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-11-02T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-11-02T08:48:59.378Z"
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "tricepsclear",
+  "box": 197,
+  "date": "2026-11-03",
+  "title": "TricepsClear",
+  "question": "How do you build your triceps?",
+  "hook": "The triceps is the biggest muscle in your upper arm, and one of its three heads crosses your shoulder. Raise the arm overhead and watch that head stretch, work out how much of you your hands carry in a push-up, a dand and a dip, and see what the evidence says about growing it safely.",
+  "thumbText": "HOW TO BUILD TRICEPS",
+  "field": "body",
+  "minutes": 14,
+  "tags": [
+    "triceps",
+    "strength training",
+    "push-ups",
+    "dand",
+    "dips",
+    "muscle growth",
+    "hypertrophy",
+    "length-tension",
+    "akhara",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Three heads, one tendon",
+      "text": "The triceps brachii fills the back of the upper arm. Its long head starts on the shoulder blade, its lateral and medial heads on the humerus, and all three pull on the olecranon, the point of your elbow. By MRI it is a little over half of the upper arm's muscle, not the two-thirds often quoted."
+    },
+    {
+      "title": "Arm up, long head long",
+      "text": "Only the long head crosses the shoulder, so raising the arm overhead stretches it. In one 12-week study of 21 beginners, overhead extensions grew the triceps about 20% against 14% for the arm-by-side version, with lighter weights. One study, so a strong hint rather than a law."
+    },
+    {
+      "title": "Push-ups, dands and dips",
+      "text": "In a push-up your toes are the pivot and your hands carry about two-thirds of your weight; force plates measured about 64%. Knees or a bench lower that share, feet on a box raises it, and dips carry all of you. The triceps grips just 2 cm behind the elbow, so it pulls with well over a thousand newtons."
+    },
+    {
+      "title": "How it grows",
+      "text": "Hard sets close to failure, about 10 or more a week, on 2 or more days, with loads anywhere from about 30% to 85% of your max. Strength comes first from your nerves; size follows over weeks. ICMR-NIN puts protein needs at about 0.83 g per kg a day from food."
+    },
+    {
+      "title": "Safely",
+      "text": "See a doctor first with heart disease, high blood pressure, pregnancy or a recent injury. Warm up, build up from wall and bench push-ups, tuck the elbows, stop dips when the upper arm is level, and stop on sharp pain. Steroids harm the heart, liver and fertility and are banned by WADA and NADA."
+    },
+    {
+      "title": "From the akhara to the lab",
+      "text": "Indian wrestlers trained with dands and baithaks in earth pits; Gama's huge daily counts are reports, not records. Jahn's parallel bars (1811), DeLorme's progressive resistance (1945) and today's studies on sets, loads and muscle length followed."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Triceps brachii",
+      "def": "The three-headed muscle on the back of the upper arm that straightens the elbow."
+    },
+    {
+      "term": "Long head",
+      "def": "The head that starts on the shoulder blade, so it crosses both shoulder and elbow."
+    },
+    {
+      "term": "Olecranon",
+      "def": "The bony point of the elbow, where the triceps tendon attaches."
+    },
+    {
+      "term": "Length–tension curve",
+      "def": "How much force a muscle can make at each length: most in the middle."
+    },
+    {
+      "term": "Moment arm",
+      "def": "The sideways distance from a joint to a force; the triceps' is only about 2 cm."
+    },
+    {
+      "term": "Dand",
+      "def": "The flowing Indian push-up of the akhara: hips high, swoop low, arch up."
+    },
+    {
+      "term": "Progressive overload",
+      "def": "Gradually asking more of a muscle: more reps, weight or sets."
+    },
+    {
+      "term": "Reps in reserve",
+      "def": "How many more reps you could have done when you stopped the set."
+    },
+    {
+      "term": "Spot reduction",
+      "def": "The myth that exercising one body part burns the fat over it."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "tricepsclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

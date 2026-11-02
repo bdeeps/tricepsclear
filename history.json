@@ -1,0 +1,731 @@
+{
+ "title": "The history of building the triceps",
+ "tagline": "From dands in the earth pits of Indian akharas and Jahn's parallel bars to MRI studies of which arm position grows the most muscle.",
+ "intro": "People built pushing strength for centuries with their own body weight: wrestlers' dands in India, dips on the gymnasts' bars in Germany. Strongmen made muscle a show, army doctors made it medicine, and physiologists explained why force depends on a muscle's length. Today MRI studies test which exercises grow the triceps best, and health bodies recommend strength training for everyone.",
+ "eras": [
+  {
+   "id": "akhara",
+   "name": "Earth pits and poles",
+   "from": 1100,
+   "to": 1930,
+   "color": "#ffb070",
+   "summary": "Indian wrestlers train with dands, baithaks, gada and the mallakhamb pole; Gama takes the dand to the world."
+  },
+  {
+   "id": "gym",
+   "name": "Bars and strongmen",
+   "from": 1800,
+   "to": 1930,
+   "color": "#c49bff",
+   "summary": "Jahn's parallel bars, the word push-up, and Sandow's books, contest and tour of India."
+  },
+  {
+   "id": "science",
+   "name": "Measuring strength",
+   "from": 1940,
+   "to": 2000,
+   "color": "#8ef0ff",
+   "summary": "Progressive resistance, sliding filaments, the size principle and the length-tension curve."
+  },
+  {
+   "id": "evidence",
+   "name": "Evidence and guidelines",
+   "from": 2000,
+   "to": 2026,
+   "color": "#6ee7a8",
+   "summary": "Meta-analyses on sets and loads, MRI of triceps growth, WHO and ICMR-NIN advice, and anti-doping law."
+  }
+ ],
+ "events": [
+  {
+   "year": 1135,
+   "date": "c. 1135 (attributed)",
+   "era": "akhara",
+   "art": "scroll",
+   "key": false,
+   "title": "A pole for wrestlers",
+   "who": "Someshvara III (attributed)",
+   "where": "Western Chalukya court, Deccan",
+   "country": "India",
+   "text": "The Sanskrit encyclopaedia Manasollasa is often said to mention wrestlers training on a wooden pole, an early form of mallakhamb. The claim is repeated widely but is not well sourced.",
+   "why": "It hints that Indian strength training with body weight and simple tools is centuries old.",
+   "sources": [
+    10
+   ],
+   "box": "roots"
+  },
+  {
+   "year": 1805,
+   "date": "c. 1805 (traditional)",
+   "era": "akhara",
+   "art": "person",
+   "key": false,
+   "title": "Mallakhamb revived in Pune",
+   "who": "Balambhatt Dada Deodhar",
+   "where": "Pune",
+   "country": "India",
+   "text": "Tradition credits Balambhatt Dada Deodhar, a teacher at the court of Peshwa Baji Rao II (who ruled 1796 to 1818), with reviving mallakhamb: wrestlers climbing and holding poses on a wooden pole. The exact year and the story of a challenge from rival wrestlers come from popular accounts.",
+   "why": "Pole work built pushing and gripping strength in the arms long before gyms.",
+   "sources": [
+    10,
+    11
+   ],
+   "box": "roots"
+  },
+  {
+   "year": 1811,
+   "date": "1811",
+   "era": "gym",
+   "art": "block",
+   "key": true,
+   "title": "The first parallel bars",
+   "who": "Friedrich Ludwig Jahn",
+   "where": "Hasenheide, Berlin",
+   "country": "Germany",
+   "text": "Jahn opened an open-air gymnastics ground, the Turnplatz, in a park in Berlin. He is credited with inventing the parallel bars, first set up there.",
+   "why": "The parallel bars gave the world the dip, still one of the hardest triceps exercises.",
+   "sources": [
+    2,
+    3
+   ],
+   "box": "pushing"
+  },
+  {
+   "year": 1893,
+   "date": "by 1893",
+   "era": "gym",
+   "art": "word",
+   "key": false,
+   "title": "The word \"push-up\"",
+   "who": "English speakers",
+   "where": "United States",
+   "country": "United States",
+   "text": "The exercise sense of \"push-up\" is recorded by 1893, at first for pushing up on parallel bars; dictionaries more often give the floor exercise from about 1905 to 1910. The British say \"press-up\".",
+   "why": "The name arrived long after people had been doing the movement.",
+   "sources": [
+    12
+   ]
+  },
+  {
+   "year": 1896,
+   "date": "by 1896",
+   "era": "akhara",
+   "art": "scroll",
+   "key": true,
+   "title": "Dands in print",
+   "who": "S. Bharadwaj, Vyayama Dipika",
+   "where": "India",
+   "country": "India",
+   "text": "An Indian exercise manual of 1896 describes dands and baithaks, the daily push-ups and squats of wrestlers in akharas. The movements were already old, passed on by gurus in the earth pits.",
+   "why": "It is an early written record of the dand, the Indian push-up this box models.",
+   "sources": [
+    0
+   ],
+   "box": "pushing"
+  },
+  {
+   "year": 1897,
+   "date": "1897",
+   "era": "gym",
+   "art": "person",
+   "key": false,
+   "title": "Strength and How to Obtain It",
+   "who": "Eugen Sandow",
+   "where": "London",
+   "country": "United Kingdom",
+   "text": "The Prussian-born strongman Eugen Sandow published a home-training book with charts of exercises using light dumbbells, and sold equipment by post.",
+   "why": "It helped turn strength training from a stage act into something ordinary people did at home.",
+   "sources": [
+    4
+   ]
+  },
+  {
+   "year": 1901,
+   "date": "14 September 1901",
+   "era": "gym",
+   "art": "trophy",
+   "key": false,
+   "title": "The Great Competition",
+   "who": "Eugen Sandow; judges included Arthur Conan Doyle",
+   "where": "Royal Albert Hall, London",
+   "country": "United Kingdom",
+   "text": "Sandow staged what is often called the first big bodybuilding contest, judged on development and proportion. Reports of the crowd and the number of entrants differ.",
+   "why": "Muscle size became something people trained for in its own right.",
+   "sources": [
+    5,
+    6,
+    4
+   ]
+  },
+  {
+   "year": 1905,
+   "date": "1905",
+   "era": "gym",
+   "art": "person",
+   "key": false,
+   "title": "Sandow tours India",
+   "who": "Eugen Sandow",
+   "where": "India",
+   "country": "India",
+   "text": "Sandow toured India and was widely acclaimed. Physical culture magazines and gymnasiums spread in Indian cities in the years that followed, alongside the akharas.",
+   "why": "Western gym training and Indian traditions began to meet.",
+   "sources": [
+    4
+   ]
+  },
+  {
+   "year": 1910,
+   "date": "10 and 17 September 1910",
+   "era": "akhara",
+   "art": "trophy",
+   "key": true,
+   "title": "Gama wins in London",
+   "who": "Ghulam Mohammad Baksh, \"The Great Gama\"",
+   "where": "London",
+   "country": "United Kingdom",
+   "text": "Gama of Punjab fought Stanisław Zbyszko for the John Bull world title. After a draw lasting nearly three hours, Zbyszko did not return for the rematch and Gama took the belt. Accounts of his training report thousands of dands and baithaks a day, but the numbers vary between books, so they are reports, not records.",
+   "why": "He made the dand and baithak famous far beyond India.",
+   "sources": [
+    1,
+    0
+   ],
+   "box": "roots"
+  },
+  {
+   "year": 1945,
+   "date": "1945",
+   "era": "science",
+   "art": "hammer",
+   "key": true,
+   "title": "Progressive resistance",
+   "who": "Thomas DeLorme",
+   "where": "United States",
+   "country": "United States",
+   "text": "Army physician Thomas DeLorme rebuilt the strength of injured soldiers with sets of about 10 repetitions, adding weight as they grew stronger. By 1948 he had settled on three sets of 10, getting heavier.",
+   "why": "Progressive overload, the core of every strength plan today, began as rehabilitation medicine.",
+   "sources": [
+    7
+   ],
+   "box": "training"
+  },
+  {
+   "year": 1954,
+   "date": "1954",
+   "era": "science",
+   "art": "muscle",
+   "key": false,
+   "title": "Muscles slide",
+   "who": "Andrew Huxley and Rolf Niedergerke; Hugh Huxley and Jean Hanson",
+   "where": "Cambridge and London",
+   "country": "United Kingdom",
+   "text": "Two papers published side by side showed that muscle shortens when thin and thick filaments slide past each other, rather than by the filaments themselves shrinking. MuscleClear tells this story in detail.",
+   "why": "It explains why a muscle's force depends on its length.",
+   "sources": [
+    32
+   ]
+  },
+  {
+   "year": 1957,
+   "date": "1957",
+   "era": "science",
+   "art": "neuron",
+   "key": false,
+   "title": "The size principle",
+   "who": "Elwood Henneman",
+   "where": "Harvard, Massachusetts",
+   "country": "United States",
+   "text": "Henneman showed that nerves recruit small motor units first and bigger ones only as effort rises. That is why a set has to get hard before the biggest fibres join in.",
+   "why": "It is the reason \"close to failure\" matters for growth.",
+   "sources": [
+    31
+   ],
+   "box": "training"
+  },
+  {
+   "year": 1966,
+   "date": "1966",
+   "era": "science",
+   "art": "muscle",
+   "key": true,
+   "title": "The length-tension curve",
+   "who": "A. M. Gordon, Andrew Huxley and F. J. Julian",
+   "where": "London",
+   "country": "United Kingdom",
+   "text": "Working on single frog muscle fibres, they measured force at many sarcomere lengths. Force was highest where actin and myosin overlapped best and fell when the fibre was too short or too long.",
+   "why": "It is the curve behind the box's question of which head is stretched in which position.",
+   "sources": [
+    8
+   ],
+   "box": "positions"
+  },
+  {
+   "year": 1992,
+   "date": "1992",
+   "era": "science",
+   "art": "scroll",
+   "key": false,
+   "title": "The Wrestler's Body",
+   "who": "Joseph S. Alter",
+   "where": "Banaras (Varanasi)",
+   "country": "India",
+   "text": "An anthropologist's study of North Indian wrestlers described akhara life in detail: daily dands and baithaks, diet, discipline and the earth pit.",
+   "why": "It recorded a living training tradition for scholars worldwide.",
+   "sources": [
+    13
+   ]
+  },
+  {
+   "year": 1997,
+   "date": "1997",
+   "era": "science",
+   "art": "flask",
+   "key": false,
+   "title": "Two days of building",
+   "who": "Stuart Phillips and colleagues",
+   "where": "Galveston, Texas",
+   "country": "United States",
+   "text": "After one hard session, beginners' muscle protein synthesis was 112% above rest at 3 hours, 65% at 24 hours and still 34% at 48 hours. Trained people return to normal sooner.",
+   "why": "It shows why training each muscle about twice a week makes sense.",
+   "sources": [
+    27
+   ],
+   "box": "training"
+  },
+  {
+   "year": 2007,
+   "date": "2007",
+   "era": "evidence",
+   "art": "scales",
+   "key": false,
+   "title": "No spot reduction",
+   "who": "Kostek and colleagues",
+   "where": "United States",
+   "country": "United States",
+   "text": "104 adults trained one arm for 12 weeks. MRI showed fat under the skin fell about the same in the trained and untrained arm.",
+   "why": "Triceps exercises do not burn the fat on the back of the arm; that myth can be retired.",
+   "sources": [
+    20
+   ],
+   "box": "training"
+  },
+  {
+   "year": 2009,
+   "date": "2009",
+   "era": "evidence",
+   "art": "scroll",
+   "key": false,
+   "title": "ACSM sets out progression",
+   "who": "American College of Sports Medicine",
+   "where": "United States",
+   "country": "United States",
+   "text": "The ACSM's position stand on progression in resistance training set out progressive overload, specificity and variation, with suggested loads and frequencies for novices to advanced lifters.",
+   "why": "It gave coaches and doctors a shared, evidence-based starting point.",
+   "sources": [
+    15
+   ]
+  },
+  {
+   "year": 2010,
+   "date": "2010",
+   "era": "evidence",
+   "art": "word",
+   "key": false,
+   "title": "Push-up loads measured",
+   "who": "Wurm, Ebben and colleagues",
+   "where": "Milwaukee, Wisconsin",
+   "country": "United States",
+   "text": "Force plates measured how much of the body's weight the hands carry in push-up variations: about 64% in a regular push-up, less on the knees or with hands raised, more with feet raised (figures as reported).",
+   "why": "It turned the push-up into a ladder you can climb step by step.",
+   "sources": [
+    22,
+    21
+   ],
+   "box": "pushing"
+  },
+  {
+   "year": 2010,
+   "date": "October 2010",
+   "era": "evidence",
+   "art": "flask",
+   "key": false,
+   "title": "Why muscles grow",
+   "who": "Brad Schoenfeld",
+   "where": "New York",
+   "country": "United States",
+   "text": "A widely cited review named mechanical tension, muscle damage and metabolic stress as the drivers of muscle growth. Later work put tension firmly first.",
+   "why": "It shaped how a generation thinks about training for size.",
+   "sources": [
+    16
+   ]
+  },
+  {
+   "year": 2011,
+   "date": "2011",
+   "era": "evidence",
+   "art": "skeleton",
+   "key": false,
+   "title": "Measuring arm muscle",
+   "who": "Meghan Vidt, Katherine Saul and colleagues",
+   "where": "Winston-Salem, North Carolina",
+   "country": "United States",
+   "text": "MRI of older adults' arms put the triceps at about 304 cm³, against 143 for the biceps and 97 for the brachialis: a little over half of the upper arm's muscle.",
+   "why": "It corrects the popular \"two-thirds of your arm\" claim.",
+   "sources": [
+    19
+   ],
+   "box": "anatomy"
+  },
+  {
+   "year": 2013,
+   "date": "2013",
+   "era": "evidence",
+   "art": "muscle",
+   "key": false,
+   "title": "Growth is uneven",
+   "who": "Taku Wakahara and colleagues",
+   "where": "Japan",
+   "country": "Japan",
+   "text": "Twelve weeks of triceps training grew the middle of the muscle more than the part nearest the shoulder, matching where MRI showed the most activity during training.",
+   "why": "Different exercises can grow different regions of one muscle.",
+   "sources": [
+    14
+   ],
+   "box": "positions"
+  },
+  {
+   "year": 2017,
+   "date": "2017",
+   "era": "evidence",
+   "art": "scales",
+   "key": true,
+   "title": "Sets and loads",
+   "who": "Brad Schoenfeld, Dan Ogborn, James Krieger, Jozo Grgic",
+   "where": "United States and Croatia",
+   "country": "United States",
+   "text": "Two meta-analyses found that more weekly sets give more growth (best supported to about 10 or more), and that light and heavy loads build similar muscle when sets are hard, though heavy loads build more maximum strength.",
+   "why": "Effort and enough sets matter more than one magic weight.",
+   "sources": [
+    30,
+    17
+   ],
+   "box": "training"
+  },
+  {
+   "year": 2019,
+   "date": "29 August 2019",
+   "era": "evidence",
+   "art": "person",
+   "key": false,
+   "title": "Fit India",
+   "who": "Government of India",
+   "where": "New Delhi",
+   "country": "India",
+   "text": "The Fit India Movement was launched on National Sports Day, the birthday of hockey player Dhyan Chand, to encourage everyone to be active.",
+   "why": "It made fitness a national campaign rather than a sport for a few.",
+   "sources": [
+    18
+   ]
+  },
+  {
+   "year": 2020,
+   "date": "November 2020",
+   "era": "evidence",
+   "art": "heart",
+   "key": false,
+   "title": "WHO: strength twice a week",
+   "who": "World Health Organization",
+   "where": "Geneva",
+   "country": "Switzerland",
+   "text": "New global guidelines asked adults to add muscle-strengthening work for all major muscle groups on 2 or more days a week, and older adults balance and strength on 3 or more.",
+   "why": "Strength training became a public-health recommendation for everyone, not just athletes.",
+   "sources": [
+    23
+   ],
+   "box": "safety"
+  },
+  {
+   "year": 2022,
+   "date": "2022",
+   "era": "evidence",
+   "art": "scales",
+   "key": false,
+   "title": "India's anti-doping law",
+   "who": "Parliament of India",
+   "where": "New Delhi",
+   "country": "India",
+   "text": "The National Anti-Doping Act, 2022 gave legal backing to NADA, India's anti-doping agency, which enforces the world list of banned substances, anabolic steroids among them.",
+   "why": "Doping is against the law in Indian sport, and steroids harm health.",
+   "sources": [
+    28,
+    24
+   ],
+   "box": "safety"
+  },
+  {
+   "year": 2023,
+   "date": "2023 (online 2022)",
+   "era": "evidence",
+   "art": "muscle",
+   "key": true,
+   "title": "Overhead grows more",
+   "who": "Sumiaki Maeo, Tadao Isaka and colleagues",
+   "where": "Ritsumeikan University, Shiga",
+   "country": "Japan",
+   "text": "21 beginners trained one arm overhead and the other with the arm by the side for 12 weeks. The overhead arm's triceps grew about 20% against 14%, with lighter weights. It is one study, in beginners.",
+   "why": "It is the clearest test yet of training a muscle at long lengths.",
+   "sources": [
+    9
+   ],
+   "box": "positions"
+  },
+  {
+   "year": 2024,
+   "date": "May 2024",
+   "era": "evidence",
+   "art": "leaf",
+   "key": false,
+   "title": "Dietary Guidelines for Indians",
+   "who": "ICMR-National Institute of Nutrition",
+   "where": "Hyderabad",
+   "country": "India",
+   "text": "New guidelines set protein needs at about 0.83 g per kg body weight a day for healthy adults, from a varied diet, and advised against protein powders for healthy people.",
+   "why": "Food, not powders, is the official Indian advice for building muscle.",
+   "sources": [
+    26
+   ],
+   "box": "training"
+  }
+ ],
+ "firsts": [
+  {
+   "label": "Parallel bars, home of the dip",
+   "value": "1811",
+   "who": "Friedrich Ludwig Jahn, Berlin"
+  },
+  {
+   "label": "Dands described in an Indian exercise book",
+   "value": "by 1896",
+   "who": "Vyayama Dipika, India"
+  },
+  {
+   "label": "Progressive resistance exercise",
+   "value": "1945",
+   "who": "Thomas DeLorme, USA"
+  },
+  {
+   "label": "Length-tension curve of a single fibre",
+   "value": "1966",
+   "who": "Gordon, Huxley and Julian, UK"
+  },
+  {
+   "label": "Overhead versus arm-by-side triceps growth tested",
+   "value": "2023",
+   "who": "Maeo and colleagues, Japan"
+  }
+ ],
+ "people": [
+  {
+   "name": "Ghulam Mohammad Baksh (The Great Gama)",
+   "life": "1878 – 1960",
+   "role": "Pehlwan (wrestler)",
+   "from": "Punjab, India (later Lahore, Pakistan)",
+   "note": "Undefeated champion whose reported daily dands and baithaks made Indian training famous."
+  },
+  {
+   "name": "Friedrich Ludwig Jahn",
+   "life": "1778 – 1852",
+   "role": "Gymnastics educator",
+   "from": "Germany",
+   "note": "Opened the first Turnplatz and is credited with the parallel bars."
+  },
+  {
+   "name": "Eugen Sandow",
+   "life": "1867 – 1925",
+   "role": "Strongman and showman",
+   "from": "Königsberg, Prussia; worked in London",
+   "note": "Sold home training to millions and toured India in 1905."
+  },
+  {
+   "name": "Thomas DeLorme",
+   "life": "active 1940s – 1950s",
+   "role": "Physician",
+   "from": "United States",
+   "note": "Founded progressive resistance exercise while rehabilitating soldiers."
+  }
+ ],
+ "series": [],
+ "facts": [
+  "The triceps is the biggest muscle in the upper arm, but by MRI it is a little over half of it, not the two-thirds often quoted.",
+  "Only one of the triceps' three heads crosses the shoulder, which is why raising your arm overhead stretches it.",
+  "In a normal push-up your hands carry roughly two-thirds of your body weight; in a dip they carry all of it.",
+  "The triceps grips the elbow only about 2 cm behind the joint, so it pulls about fifteen times harder than the weight in your hand.",
+  "Training one arm for 12 weeks cut fat about equally in both arms: spot reduction is a myth."
+ ],
+ "sources": [
+  {
+   "title": "Hindu push-up",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hindu_push-up"
+  },
+  {
+   "title": "The Great Gama",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Great_Gama"
+  },
+  {
+   "title": "Friedrich Ludwig Jahn",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Friedrich_Ludwig_Jahn"
+  },
+  {
+   "title": "Parallel bars",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Parallel_bars"
+  },
+  {
+   "title": "Eugen Sandow",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eugen_Sandow"
+  },
+  {
+   "title": "First bodybuilding contest",
+   "publisher": "Guinness World Records",
+   "url": "https://www.guinnessworldrecords.com/world-records/764545-first-bodybuilding-contest"
+  },
+  {
+   "title": "Sandow Great Competition and Physical Culture Display",
+   "publisher": "The Arthur Conan Doyle Encyclopedia",
+   "url": "https://www.arthur-conan-doyle.com/wiki/Sandow_Great_Competition_and_Physical_Culture_Display"
+  },
+  {
+   "title": "Thomas DeLorme and the science of progressive resistance exercise (Todd, Shurley & Todd, J Strength Cond Res 2012)",
+   "publisher": "PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22592167/"
+  },
+  {
+   "title": "The variation in isometric tension with sarcomere length in vertebrate muscle fibres (Gordon, Huxley & Julian, J Physiol 1966)",
+   "publisher": "PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1357553/"
+  },
+  {
+   "title": "Triceps brachii hypertrophy is substantially greater after elbow extension training performed in the overhead versus neutral arm position (Maeo et al., Eur J Sport Sci 2023)",
+   "publisher": "PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35819335/"
+  },
+  {
+   "title": "Mallakhamba",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mallakhamba"
+  },
+  {
+   "title": "Wrestling pole: the art of mallakhamb training",
+   "publisher": "Sahapedia",
+   "url": "https://www.sahapedia.org/wrestling-pole-art-mallakhamb-training"
+  },
+  {
+   "title": "push-up (n.)",
+   "publisher": "Online Etymology Dictionary",
+   "url": "https://www.etymonline.com/word/push-up"
+  },
+  {
+   "title": "The Wrestler's Body: Identity and Ideology in North India (Joseph S. Alter, 1992)",
+   "publisher": "University of California Press",
+   "url": "https://publishing.cdlib.org/ucpressebooks/public/book/the-wrestler-s-body-identity-and-ideology-in-north-india.html"
+  },
+  {
+   "title": "Nonuniform muscle hypertrophy: its relation to muscle activation in training session (Wakahara et al., Med Sci Sports Exerc 2013)",
+   "publisher": "PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23657165/"
+  },
+  {
+   "title": "American College of Sports Medicine position stand: Progression models in resistance training for healthy adults (2009)",
+   "publisher": "PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+  },
+  {
+   "title": "The mechanisms of muscle hypertrophy and their application to resistance training (Schoenfeld, J Strength Cond Res 2010)",
+   "publisher": "PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20847704/"
+  },
+  {
+   "title": "Strength and hypertrophy adaptations between low- vs. high-load resistance training (Schoenfeld et al., J Strength Cond Res 2017)",
+   "publisher": "PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28834797/"
+  },
+  {
+   "title": "Fit India Movement launch",
+   "publisher": "Press Information Bureau, Government of India",
+   "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1583451"
+  },
+  {
+   "title": "Characterizing upper limb muscle volume and strength in older adults (Vidt et al., J Biomech 2012)",
+   "publisher": "PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3246044/"
+  },
+  {
+   "title": "Subcutaneous fat alterations resulting from an upper-body resistance training program (Kostek et al., Med Sci Sports Exerc 2007)",
+   "publisher": "PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17596787/"
+  },
+  {
+   "title": "The effect of position on the percentage of body mass supported during traditional and modified push-up variants (Suprak et al., J Strength Cond Res 2011)",
+   "publisher": "PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20179649/"
+  },
+  {
+   "title": "Kinetic analysis of several variations of push-ups (Wurm, Ebben et al., ISBS 2010)",
+   "publisher": "ISBS Proceedings Archive",
+   "url": "https://ojs.ub.uni-konstanz.de/cpa/article/view/4457"
+  },
+  {
+   "title": "World Health Organization 2020 guidelines on physical activity and sedentary behaviour (Bull et al., Br J Sports Med)",
+   "publisher": "WHO / BMJ",
+   "url": "https://www.who.int/publications/i/item/9789240015128"
+  },
+  {
+   "title": "Anabolic steroid misuse",
+   "publisher": "NHS",
+   "url": "https://www.nhs.uk/conditions/anabolic-steroid-misuse/"
+  },
+  {
+   "title": "Physical activity guidelines for adults aged 19 to 64",
+   "publisher": "NHS",
+   "url": "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/"
+  },
+  {
+   "title": "Dietary Guidelines for Indians (2024)",
+   "publisher": "ICMR-National Institute of Nutrition",
+   "url": "https://www.nin.res.in/"
+  },
+  {
+   "title": "Muscle protein synthesis after resistance exercise: Phillips et al. 1997 (Am J Physiol)",
+   "publisher": "PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9252485/"
+  },
+  {
+   "title": "The National Anti-Doping Act, 2022",
+   "publisher": "National Anti Doping Agency India",
+   "url": "https://www.nadaindia.org/"
+  },
+  {
+   "title": "Triceps",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Triceps"
+  },
+  {
+   "title": "Dose-response relationship between weekly resistance training volume and increases in muscle mass (Schoenfeld, Ogborn & Krieger, J Sports Sci 2017)",
+   "publisher": "PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27433992/"
+  },
+  {
+   "title": "Elwood Henneman",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Elwood_Henneman"
+  },
+  {
+   "title": "Sliding filament theory",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sliding_filament_theory"
+  }
+ ]
+}
